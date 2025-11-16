@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Tennis Naive Bayes Predictor Banner" width="100%">
-</p>
-
 # 🎾 Tennis Naive Bayes Predictor (Python + Tkinter)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
@@ -29,4 +25,5 @@ This project includes:
 ---
 
 ## 📁 Project Structure
+
 
