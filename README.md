@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Tennis Naive Bayes Predictor Banner" width="100%">
+</p>
+
 # 🎾 Tennis Naive Bayes Predictor (Python + Tkinter)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
@@ -6,25 +10,21 @@
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A simple, clean machine learning project that predicts **whether you should play tennis** based on:
+A clean, beginner-friendly machine learning project that predicts  
+**whether you should Play Tennis or Not** using:
 
-- 🌤 Outlook  
-- 🌡 Temperature  
-- 💧 Humidity  
-- 🍃 Wind  
+- 🌤 **Outlook**  
+- 🌡 **Temperature**  
+- 💧 **Humidity**  
+- 🍃 **Wind**  
 
-This project implements a **Naive Bayes Classifier from scratch**, without using `sklearn`, and provides a **Tkinter GUI** for easy interaction.
+This project includes:
 
----
-
-## 🚀 Features
-
-- ✔ Naive Bayes implemented manually  
-- ✔ Beautiful Tkinter UI  
-- ✔ Add new training data directly from the UI  
-- ✔ Auto-learns from updated CSV  
-- ✔ Beginner-friendly ML project  
-- ✔ Perfect for GitHub portfolio  
+✔ Naive Bayes implemented **from scratch**  
+✔ A simple and beautiful **Tkinter UI**  
+✔ Ability to **add new data** directly from the UI  
+✔ Real-time model updates from `Tennis.csv`  
+✔ Perfect for **ML beginners**, **students**, and **portfolio projects**  
 
 ---
 
