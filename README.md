@@ -23,7 +23,3 @@ This project includes:
 ✔ Perfect for **ML beginners**, **students**, and **portfolio projects**  
 
 ---
-
-## 📁 Project Structure
-
-
